@@ -50,7 +50,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/AmorimvpDev/AmorimvpDev/output/snake.svg" alt="Snake animation" />
-
-###
