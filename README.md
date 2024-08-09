@@ -1,8 +1,8 @@
-<h2 align="left">About me</h2>
+<!---<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">- Python Developer<br>- Estudent Programming<br>- Gym</p>
+<p align="left">- Python Developer<br>- Estudent Programming<br>- Gym</p>-->
 
 ###
 
